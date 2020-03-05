@@ -10,6 +10,7 @@
 * git rebase -i HEAD~~
 * p=pick  s=squash
 
-* git commit --amend --date=now
+### git commands
+git commit --amend --date=now
 
-* git log --online -10
+git log --online -10
