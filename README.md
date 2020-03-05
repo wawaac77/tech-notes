@@ -5,7 +5,7 @@ tech-notes, shortcuts
 * option + command + [  ==> fold a block
 * option + command + ]  ==> unfold a block
 
-###squash commits
+### squash commits
 * git rebase -i HEAD~~
 * p=pick  s=squash
 
