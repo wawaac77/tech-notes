@@ -1,7 +1,8 @@
 # tech-notes
-tech-notes, shortcuts
-* git check -
+## tech-notes, shortcuts
+> git check -
 
+### shortcuts
 * option + command + [  ==> fold a block
 * option + command + ]  ==> unfold a block
 
