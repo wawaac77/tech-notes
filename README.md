@@ -1,6 +1,5 @@
 # tech-notes
-## tech-notes, shortcuts
-> git check -
+tech-notes, shortcuts
 
 ### shortcuts
 * option + command + [  ==> fold a block
@@ -14,3 +13,5 @@
 git commit --amend --date=now
 
 git log --online -10
+
+git checkout -
